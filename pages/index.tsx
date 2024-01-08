@@ -58,7 +58,7 @@ const Home: NextPage = () => {
 
   return (
     <div className={styles.container}>
-      <h2>Wallet Connection - Frontend</h2>
+      <h2>💈 Barber Haircut NFT</h2>
 
       {user ? (
         <button className={styles.mainButton} onClick={() => logout()}>
